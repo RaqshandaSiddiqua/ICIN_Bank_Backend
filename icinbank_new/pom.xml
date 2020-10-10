@@ -79,6 +79,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>icinbank_new<finalName>
 	</build>
 
 </project>
